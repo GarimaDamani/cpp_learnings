@@ -1,10 +1,16 @@
-// This program plays against user and computer.
+/***
 
-// By default the user plays first turn. in this number the board of the tic tac toe is assigned numbers from 1 to 9. thus indicating user has to enter a number from 1 to 9 only to his turn.
+This program plays against user and computer. By default the user plays first turn.
+The board is assigned numbers from 1 to 9.
+Thus indicating user has to enter a number from 1 to 9 when his turn comes.
 
-// the moment user plays his turn the computer plays his turn and shows the output. this game continuous till either of them losses or game comes to an end. that is all 9 places on the board are over no more place vacant to play next turn.
+The moment user plays his turn the computer also plays his turn and displays the output. 
+This game continuous till either of them losses or game comes to an end.
 
-// This program is based on the algorithm mention in textbook of artificial Intelligence by Kevin Knight (Author), Elaine Rich (Author), B. Nair (Author). publisher: McGraw Hill Education India Pvt Ltd; 3 edition (15 October 2008).
+This program is based on the algorithm mention in textbook of artificial Intelligence by Kevin Knight (Author), 
+Elaine Rich (Author), B. Nair (Author). publisher: McGraw Hill Education India Pvt Ltd; 3rd edition (15 October 2008).
+
+***/
 
 #include <iostream>
 using namespace std;
